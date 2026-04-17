@@ -21,7 +21,7 @@
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" style="margin: 8px; vertical-align: middle;" />
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" style="margin: 8px; vertical-align: middle;" />
